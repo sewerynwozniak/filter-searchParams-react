@@ -1,0 +1,25 @@
+body{
+    background-color: #2b2b2b;
+}
+
+label, p, li, h2{
+    color: #fff;
+    margin: 5px;
+}
+
+.topbar{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px 10px;
+}
+
+.itemsWrapper{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+#inputText{
+    height: 20px;
+    border-radius: 5px;
+}
